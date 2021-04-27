@@ -1,1 +1,2 @@
-hola mundo, estamos activos
+hola mundo, estamos activos.
+Probando de nuevo el stash con apply
